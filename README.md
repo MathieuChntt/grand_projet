@@ -1,6 +1,11 @@
 # grand_projet
 Gestion des employés
 
+Collaborateurs: Mathieu CHANTOT, Chelsie LOUIS, Zhongtian FAN, Hugo PARMENTIER, Arthur BILLEBAUT, Clément Le Strat, Adrien Fénogli.
+
+Scrum master : Mathieu CHANTOT | 
+Product Owner : Chelsie LOUIS
+
 Quelques commandes utilisées :
 git clone [url]
 git pull
@@ -27,5 +32,3 @@ Lorsque nous travaillions sur Github, nous sommes dans la phase Build et Test de
 On ne reviendrait pas en arrière sur le Backlog par exemple.
 
 
-Scrum master : Mathieu CHANTOT | 
-Product Owner : Chelsie LOUIS
