@@ -1,7 +1,7 @@
 # grand_projet
 Gestion des employés
 
-Collaborateurs: Mathieu CHANTOT, Chelsie LOUIS, Zhongtian FAN, Hugo PARMENTIER, Arthur BILLEBAUT, Clément Le Strat, Adrien Fénogli.
+Collaborateurs: Mathieu CHANTOT, Chelsie LOUIS, Zhongtian FAN, Hugo PARMENTIER, Arthur BILLEBAUT, Clément LE STRAT, Adrien FÉNOGLI.
 
 Scrum master : Mathieu CHANTOT | 
 Product Owner : Chelsie LOUIS
