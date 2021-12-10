@@ -6,10 +6,10 @@ Réponses aux questions :
 
 
 1)	Pensez-vous que ces nouvelles demandes devraient être dans votre backlog ? Si oui, mettez à jour le backlog. Si non, expliquez pourquoi.
-Ces nouvelles demandes sont pertinentes mais ne font pas partie du backlog (demandes techniques).
+Ces nouvelles demandes sont pertinentes mais ne font pas partie du backlog (d'ordres technique et esthétique/ergonomique).
 
 
-2)	Dans l'ALM, dans quelle(s) phase(s) sommes-nous lorsque nous travaillons sur GitHub ?
+2)	Dans l'ALM (Application Lifecycle Management), dans quelle(s) phase(s) sommes-nous lorsque nous travaillons sur GitHub ?
 Lorsque nous travaillions sur Github, nous sommes dans la phase Build et Test de l’ALM.
 
 
