@@ -6,15 +6,17 @@ Collaborateurs: Mathieu CHANTOT, Chelsie LOUIS, Zhongtian FAN, Hugo PARMENTIER, 
 Scrum master : Mathieu CHANTOT | 
 Product Owner : Chelsie LOUIS
 
+
 Quelques commandes utilisées :
-git clone [url]
-git pull
-git branch [nouvelle branche]
-git checkout [branche]
-git merge [branche]
-git add [fichier]
-git commit -m "[commentaire]"
-git push
+
+git clone [url] --> Copier/Créer un nouveau repositorie
+git pull --> Récupérer les nouvelles modifications distantes sur le dépôt local
+git branch [nouvelle branche] --> Créer une nouvelle branche
+git checkout [branche] --> Changer de branche
+git merge [branche] --> Fusionner les branches enfants depuis la branche parent
+git add [fichier] --> Ajouter un fichier
+git commit -m "[commentaire]" --> Faire un commit avec les modifications
+git push --> Pousser les modifications locales sur le dépôt distant
 
  
 Réponses aux questions :
