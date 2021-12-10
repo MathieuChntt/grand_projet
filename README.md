@@ -1,6 +1,17 @@
 # grand_projet
 Gestion des employés
 
+Quelques commandes utilisées :
+git clone [url]
+git pull
+git branch [nouvelle branche]
+git checkout [branche]
+git merge [branche]
+git add [fichier]
+git commit -m "[commentaire]"
+git push
+
+ 
 Réponses aux questions :
 
 
