@@ -1,0 +1,30 @@
+1 Authentification 
+En tant qu’employé, je dispose d’un ID et d’un mot de passe personnels pour me connecter à la plateforme 
+
+2 Page d’accueil 
+En tant qu’employé, j’accède à une page d’accueil me proposant l’accès aux différentes fonctions 
+
+3
+Gestion des employés 
+En tant que manager ou RH Ajouter, supprimer des employés 
+
+4 
+Modification des coordonnées des employés 
+Ajouter, modifier et supprimer des coordonnées pour un ou plusieurs employés 
+
+5
+Système de hiérarchie (recommandée) 
+Gérer les autorisations en tant que admin, des différents utilisateurs. 
+
+6 
+Utilisation (recommandée) 
+En tant qu’employé je dispose d’une interface ergonomique, intuitive et agréable d’utilisation 
+
+7 Demande d’absence (recommandée) 	
+En tant qu’employé je peux faire une demande d’absence qui sera dans un état : 
+“en attente” 
+“accepter” 
+“refuser” 
+
+8 Validation (recommandée) 
+En tant que manager ou membre de RH je peux valider les demandes d’absences de mes employés 
