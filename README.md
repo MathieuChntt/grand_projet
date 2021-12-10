@@ -16,5 +16,5 @@ Lorsque nous travaillions sur Github, nous sommes dans la phase Build et Test de
 On ne reviendrait pas en arrière sur le Backlog par exemple.
 
 
-Scrum master : Mathieu CHANTOT
+Scrum master : Mathieu CHANTOT | 
 Product Owner : Chelsie LOUIS
