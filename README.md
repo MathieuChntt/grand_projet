@@ -33,4 +33,7 @@ Lorsque nous travaillions sur Github, nous sommes dans la phase Build et Test de
 3)	Si vous deviez travailler sur la base de la méthodologie du Cycle en V, dans quelle mesure feriez-vous les tâches différemment ?
 On ne reviendrait pas en arrière sur le Backlog par exemple.
 
+lien du Trello: https://trello.com/b/w7wK4jYK/grand-projet
+Lien du GitHub: https://github.com/MathieuChntt/grand_projet.git
+
 
